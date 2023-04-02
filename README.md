@@ -1,5 +1,5 @@
 # Inicialização do Programa
-- Para iniciar o projeto em sua maquina baixe as dependencias com o comando `npm i`, depois de instaladas as dependências use o comando `npm run dev` para iniciar o programa.
+- Para iniciar o projeto em sua máquina baixe as dependências com o comando `npm i`, depois de instaladas as dependências use o comando `npm run dev` para iniciar o programa.
 
 # No programa foram utilizadas as seguintes tecnologias:
 - React
